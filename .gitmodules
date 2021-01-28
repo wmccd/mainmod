@@ -1,0 +1,6 @@
+[submodule "submod1"]
+	path = submod1
+	url = https://github.com/wmccd/submod1
+[submodule "submod2"]
+	path = submod2
+	url = https://github.com/wmccd/submod2
